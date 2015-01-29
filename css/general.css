@@ -6,7 +6,8 @@ body{
 }
 
 #menu_navegacion{
-    width: 1150px;
+    width: 90%;
+    min-width: 1000px;
     margin-left: auto;
     margin-right: auto;
     background-color: #E0E0E0;
@@ -19,7 +20,8 @@ body{
     z-index:99999;
 }
 #cuerpo_principal{
-    width: 1050px;
+    width: 80%;
+    min-width: 1000px;
     height: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -40,7 +42,8 @@ body{
 
 #cont_cuerpo_principal{
     position:relative;
-    width: 1000px;
+    width: 90%;
+    min-width: 750px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 5px;
